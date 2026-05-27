@@ -4,7 +4,7 @@ I am a Data Analytics graduate student interested in data analytics, machine lea
 
 ## 🔭 About Me
 
-- Exploring machine learning, neural networks, and data engineering pipelines  
+- Exploring machine learning, neural networks, LLM, agentic AI and data engineering  
 - Building analytics dashboards using Python, SQL, and Streamlit  
 - Developing GitHub portfolio projects focused on data analytics, machine learning, and real-world business use cases  
 
