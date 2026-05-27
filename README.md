@@ -16,7 +16,7 @@ I am a Data Analytics graduate student interested in data analytics, machine lea
 **Tools:** Streamlit, GitHub, Google Colab, Microsoft Office, Excel  
 **Business Skills:** Project management, documentation, stakeholder reporting, process mapping  
 
-## 😄 Professional Background
+## 👩‍💻 Professional Background
 
 I have experience across IT support, application consulting, and project management roles in Singapore. My work has involved supporting enterprise systems, configuring business workflows, troubleshooting system issues, analyzing operational processes, and helping organizations digitize manual tasks into automated workflows.
 
